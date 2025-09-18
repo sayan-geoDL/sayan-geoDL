@@ -21,6 +21,7 @@ My present academic work focuses on finding impacts of decadal scale atmospheric
 
 ### 📫 Reach Me
 📧 Email: [janasayan143@gmail.com](mailto:janasayan143@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-jana/)
 
 ### 😄 Pronouns
 He/Him
