@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Sayan (@sayan-geoDL)
+[## 👋 Hi there, I'm Sayan (@sayan-geoDL)
 
 🎯 I'm passionate about applying **AI and machine learning** to **geospatial systems**, with a focus on weather forecasting, climate analysis, and risk prediction.
 
@@ -29,7 +29,7 @@ He/Him
 I love blending maps, models, and machine learning — and making complex geoscientific data meaningful through code and visualization.
 
 ---
-
+](https://github.com/sayan-geoDL/sayan-geoDL)
 <!---
 sayan-geoDL/sayan-geoDL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
