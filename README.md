@@ -1,4 +1,4 @@
-[## 👋 Hi there, I'm Sayan (@sayan-geoDL)
+## 👋 Hi there, I'm Sayan (@sayan-geoDL)
 
 🎯 I'm passionate about applying **AI and machine learning** to **geospatial systems**, with a focus on weather forecasting, climate analysis, and risk prediction.
 
