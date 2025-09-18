@@ -1,34 +1,67 @@
-## 👋 Hi there, I'm Sayan (@sayan-geoDL)
+## 👋 Hi, I'm **Sayan Jana** (@sayan-geoDL)
 
-🎯 I'm passionate about applying **AI and machine learning** to **geospatial systems**, with a focus on weather forecasting, climate analysis, and risk prediction.
+🌍 I combine **AI, physics, and geospatial data** to build forecasting and risk models with real-world impact — especially in climate-sensitive sectors like insurance and reinsurance.  
 
-### 👀 Interests
-- AI-driven models for geospatial and environmental data
-- Weather and climate forecasting on short to medium timescales
-- Risk modeling and predictive analytics
-- Open-source GIS tools (especially QGIS)
-- Building lightweight, efficient AI models for real-world applications
+---
 
-### 🌱 Currently Learning
-- Implementing advanced deep learning architectures (e.g., LSTMs, CNNs, transformers) for spatiotemporal data
-- Working with weather station datasets, remote sensing data, and reanalysis products
-- Integrating geospatial data pipelines with AI workflows
+### 🎯 What I Do
+
+- Develop scalable ML pipelines for weather and climate forecasting (daily & sub-daily)  
+- Design hybrid physical + data-driven loss functions to ensure forecasts respect real-world constraints  
+- Build models that matter for risk: flood, basin rainfall response, climate extremes  
+- Work with station data, reanalysis, remote sensing, and hydrometeorological inputs  
+- Enable reproducibility & explainability: modular code, transparent preprocessing, validation, and deployment  
+
+---
+
+### ⚙️ Key Projects
+
+| Repo | Purpose | Highlights |
+|------|---------|------------|
+| **large-basin-ann-rain-response-pipeline** | Annual rainfall response modeling for large basins | Focus on hydrological risk modeling; data-driven + physics-aware approach |
+| **lstm-weather-pipeline** | Station-level weather forecasting using LSTMs | Smart gap-filling, physics-aware loss functions, ensemble & CV support |
+| **physaware-lstm-forecast** | Enhanced version with physical consistency (temperature, dew point, RH etc.) and robust scaling | Designed for applications in insurance / climate risk prediction |
+
+---
+
+### 🧰 Skills & Tools
+
+- **Languages & Frameworks**: Python, PyTorch, Pandas, NumPy, Matplotlib, Seaborn  
+- **Data Processing**: Climatology-based gap filling, interpolation, feature scaling, time-series aggregation  
+- **Modeling**: LSTM, ensemble methods, loss function engineering  
+- **Domain Knowledge**: Meteorology, hydrology, climate extremes, basin rainfall response  
+- **Reproducibility & Collaboration**: Modular architecture, clear documentation, validation reports  
+
+---
+
 ### 🎓 Academic Background
 
-I hold a BSc. degree in Physics from University of Calcutta (2013). A Masters degree in Physics from Banaras Hindu University (2016) and currently pursuing a PhD. Degree from Centre for Atmospheric and Oceanic Sciences (CAOS) of Indian Institute of Scienc,
-Bangalore  
-My present academic work focuses on finding impacts of decadal scale atmospheric modes on local weather extremes.
+- **Ph.D. Candidate** — Centre for Atmospheric & Oceanic Sciences (CAOS), IISc, Bangalore  
+  Research: Decadal atmospheric modes & their influence on local weather extremes  
+- **M.Sc. Physics** — Banaras Hindu University (2016)  
+- **B.Sc. Physics** — University of Calcutta (2013)  
 
-### 📫 Reach Me
-📧 Email: [janasayan143@gmail.com](mailto:janasayan143@gmail.com)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-jana-753810213/)
+### 📫 Connect with Me
 
-### 😄 Pronouns
-He/Him
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-jana-753810213/)  
 
-### ⚡ Fun Fact
-I love blending maps, models, and machine learning — and making complex geoscientific data meaningful through code and visualization.
+📧 Email: [janasayan143@gmail.com](mailto:janasayan143@gmail.com)  
+
+---
+
+### 🏛️ Value to Insurance & Reinsurance
+
+- Forecasting climate extremes & basin rainfall with explainable models helps underwriters quantify risk more precisely  
+- Transparent pipelines enable auditability & regulatory compliance (important for climate risk disclosure)  
+- Ensemble modeling + physical consistency helps with worst-case scenarios & tail risk — very relevant for catastrophe funds, reinsurance treaties  
+
+---
+
+Thank you for visiting!  
+⌨️ I believe climate risk models must be as robust, transparent, and physically grounded as they are predictive. If you share that view — let’s connect.
+
 
 ---
 ](https://github.com/sayan-geoDL/sayan-geoDL)
